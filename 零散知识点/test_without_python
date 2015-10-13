@@ -1,0 +1,10 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+#
+# 该文件直接运行须将改文件的目录添加到环境变量中（linux:path）
+# 推荐添加到～/.bashrc或者～/.bash_profile中,同时修改文件权限
+# 
+
+if __name__=="__main__":
+    print "this file can execute without keyword 'python'"
